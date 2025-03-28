@@ -35,8 +35,8 @@ The application consists of:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-book-writer.git
-cd ai-book-writer
+git clone https://github.com/Mantis2024/autogen-book-writer.git
+cd autogen-book-writer
 ```
 
 2. Create a virtual environment:
